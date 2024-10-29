@@ -16,8 +16,8 @@ PrivacyTools.info helps you navigate the complex world of data privacy and compl
 * **Articles and insights:** Get expert advice, tool reviews, and analysis of the latest privacy regulations.
 * **Emerging technologies:** Keep track of new technologies and their impact on data privacy.
 
-**Visit our website:** [https://www.privacytools.info](https://www.privacytools.info)
+**Visit our website:** [https://privacytools.info](https://www.privacytools.info)
 
-**Explore our tools:** [https://www.privacytools.info/tools](https://www.privacytools.info/tools)
+**Explore our tools:** [https://privacytools.info/tools](https://www.privacytools.info/tools)
 
-**Read our articles:** [https://www.privacytools.info/articles](https://www.privacytools.info/articles)
+**Read our articles:** [https://privacytools.info/articles](https://www.privacytools.info/articles)
